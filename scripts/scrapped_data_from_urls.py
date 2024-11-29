@@ -131,8 +131,8 @@ def crawl_website(base_url, output_dir):
 
 # Lista de sitios a rastrear
 urls = [
-    # "https://www.spatco.com",
-    # "https://www.jfpetrogroup.com",
+    "https://www.spatco.com",
+    "https://www.jfpetrogroup.com",
     "https://www.guardianfueltech.com",
     "https://www.mecoatlanta.com",
     "https://www.mckinneypetroleum.com",
